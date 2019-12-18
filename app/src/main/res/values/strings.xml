@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Space-X</string>
+    <string name="active">Show active</string>
+    <string name="all">Show all</string>
+    <string name="update">Update</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name: %1$s</string>
+    <string name="country">Country: %1$s</string>
+    <string name="engines">Engines count: %1$s</string>
+    <string name="mission">missionName: %1$s</string>
+    <string name="date">Date: %1$s</string>
+    <string name="success">Successful</string>
+    <string name="notSuccess">Not successful</string>
+    <string name="launches">Launches:</string>
+</resources>
